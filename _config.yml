@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+show_downloads: false
+title: Conferences Calendar
+description: List of conferences organized by Vardhaman College of Engineering
